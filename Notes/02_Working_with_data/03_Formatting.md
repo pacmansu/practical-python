@@ -142,7 +142,7 @@ examples:
 >>>
 ```
 
-Full documentation on the formatting codes used f-strings can be found
+Full documentation on the formatting codes used in f-strings can be found
 [here](https://docs.python.org/3/library/string.html#format-specification-mini-language). Formatting
 is also sometimes performed using the `%` operator of strings.
 
